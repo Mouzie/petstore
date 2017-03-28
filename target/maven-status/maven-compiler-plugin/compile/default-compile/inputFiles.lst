@@ -1,7 +1,4 @@
-C:\Users\reverside\Documents\NetBeansProjects\PetStore\src\main\java\za\co\reverside\petstore\CartItem.java
-C:\Users\reverside\Documents\NetBeansProjects\PetStore\src\main\java\za\co\reverside\petstore\Services.java
-C:\Users\reverside\Documents\NetBeansProjects\PetStore\src\main\java\za\co\reverside\petstore\Application.java
-C:\Users\reverside\Documents\NetBeansProjects\PetStore\src\main\java\za\co\reverside\petstore\PetStore.java
-C:\Users\reverside\Documents\NetBeansProjects\PetStore\src\main\java\za\co\reverside\petstore\Item.java
-C:\Users\reverside\Documents\NetBeansProjects\PetStore\src\main\java\za\co\reverside\petstore\Category.java
-C:\Users\reverside\Documents\NetBeansProjects\PetStore\src\main\java\za\co\reverside\petstore\Product.java
+C:\petstore\src\main\java\za\co\reverside\petstore\repository\PetRepository.java
+C:\petstore\src\main\java\za\co\reverside\petstore\Application.java
+C:\petstore\src\main\java\za\co\reverside\petstore\service\Service.java
+C:\petstore\src\main\java\za\co\reverside\petstore\model\PetStore.java

@@ -1,7 +1,4 @@
-za\co\reverside\petstore\Product.class
-za\co\reverside\petstore\Services.class
+za\co\reverside\petstore\service\Service.class
+za\co\reverside\petstore\repository\PetRepository.class
+za\co\reverside\petstore\model\PetStore.class
 za\co\reverside\petstore\Application.class
-za\co\reverside\petstore\Category.class
-za\co\reverside\petstore\PetStore.class
-za\co\reverside\petstore\CartItem.class
-za\co\reverside\petstore\Item.class
